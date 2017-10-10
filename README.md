@@ -1,3 +1,3 @@
 # DataScience-Projects
-Data science excercised from [Dataquest](dataquest.io ) and Kaggle.
+Data science excercised from [Dataquest](https://www.dataquest.io/) and Kaggle.
 
